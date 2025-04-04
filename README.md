@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Solution Architect || Principal Engineer
 ---------------------------------------------
 
-I specialize in designing scalable solutions, optimizing system performance, and implementing cloud-based architectures. Passionate about CI/CD, security, and modern software engineering practices. 🔹 18+ years of experience in software development 🔹 Expert in .NET, C#, SQL Server, Angular, Azure, and DevOps 🚀 Currently exploring DevOps, cloud automation, and identity management. 📫 Let's connect: https://www.linkedin.com/rnassar
+I specialize in designing scalable solutions, optimizing system performance, and implementing cloud-based architectures. Passionate about CI/CD, security, and modern software engineering practices. <br/>🔹 18+ years of experience in software development <br/>🔹 Expert in .NET, C#, SQL Server, Angular, Azure, and DevOps <br/>🚀 Currently exploring DevOps, cloud automation, and identity management. <br/>📫 Let's connect: https://www.linkedin.com/rnassar
 
 * 🌍  I'm based in Dubai, UAE
 * ✉️  You can contact me at [rami.nassar@hotmail.com](mailto:rami.nassar@hotmail.com)
