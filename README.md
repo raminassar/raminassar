@@ -22,11 +22,28 @@
      wired in). If you get Credly badges for AZ-400/PMP/A-CSM, replace the
      shields.io badge with the Credly embed for a clickable verification.
 
-  5. STATS WIDGETS: github-readme-stats / streak-stats / activity-graph /
-     trophies / snake all key off "raminassar" — they'll work as soon as
-     this is your actual profile README (repo named "raminassar/raminassar").
-     Snake animation additionally requires a one-time GitHub Action —
-     see: https://github.com/Platane/snk — search "REMARK: SNAKE ACTION".
+  5. STATS WIDGETS: all key off "raminassar" and are confirmed working as
+     of this edit. Note the domains used (the originals were unreliable):
+       - Stats card + Top Langs: github-stats-extended.vercel.app
+         (successor to github-readme-stats.vercel.app, which the
+         maintainers deprecated — same params, just a different host)
+       - Streak stats: streak-stats.demolab.com
+         (github-readme-streak-stats.herokuapp.com is a dead legacy
+         domain from Heroku's discontinued free tier — don't revert to it)
+       - Trophies: github-profile-trophy-liard-delta.vercel.app
+         (community mirror; the official github-profile-trophy.vercel.app
+         gets overloaded and intermittently 404s/fails to render)
+       - Activity graph: github-readme-activity-graph.vercel.app (unchanged,
+         confirmed working)
+     If any of these break again in the future, these services are
+     volunteer-run and go down periodically — check the project's GitHub
+     repo for the current recommended mirror before assuming your README
+     is misconfigured.
+     Snake animation is the ONE widget that needs manual setup — it will
+     NOT render just by adding the <img> tag. You must add a GitHub Action
+     to this repo that generates the SVG on a schedule:
+     see https://github.com/Platane/snk — search "REMARK: SNAKE ACTION"
+     below for exactly where the tag lives.
 
   6. TECH STACK ICONS: Pulled from skillicons.dev — add/remove by editing
      the comma-separated `?i=` list in each <img src> line.
@@ -356,12 +373,12 @@ Led development of the NAJDA traffic management system and coordinated Unified T
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raminassar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raminassar&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=7c3aed" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=raminassar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=raminassar&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=7c3aed" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminassar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=raminassar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="49%" />
 
 </div>
 
@@ -373,7 +390,7 @@ Led development of the NAJDA traffic management system and coordinated Unified T
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raminassar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=raminassar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
