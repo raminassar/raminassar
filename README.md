@@ -76,7 +76,7 @@
 
 <!-- 1b. Typing SVG animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=18%2B+Years+Architecting+Enterprise+Systems+Across+the+GCC;Azure+%7C+Terraform+%7C+CI%2FCD+%7C+Microservices;D365+%E2%86%92+4PS+Migration+%7C+15%2B+Integration+APIs;Leading+Teams%2C+Not+Just+Writing+Code;Exploring+Agentic+AI+%26+Automation+(n8n%2C+Claude+Code)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=18%2B+Years+Architecting+Enterprise+Systems;Azure+%7C+Terraform+%7C+CI%2FCD+%7C+Microservices;D365+%E2%86%92+4PS+Migration+%7C+15%2B+Integration+APIs;Leading+Teams%2C+Not+Just+Writing+Code;Exploring+Agentic+AI+%26+Automation+(n8n%2C+Claude+Code)" alt="Typing SVG" />
 </a>
 
 <!-- 1c. Academic badges -->
