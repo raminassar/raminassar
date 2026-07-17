@@ -1,32 +1,464 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rami M. Nassar
-======================================================================================================================================
+<!--
+  ============================================================================
+  README.md — GitHub Profile for raminassar
+  ============================================================================
+  MAINTENANCE NOTES (delete this block once you're happy, or keep it — it's
+  invisible to visitors since it's an HTML comment):
 
-Lead Solution Architect || Principal Engineer
----------------------------------------------
+  1. USERNAME: All widget URLs below use "raminassar". If you ever change
+     your GitHub handle, find/replace "raminassar" globally.
 
-I specialize in designing scalable solutions, optimizing system performance, and implementing cloud-based architectures. Passionate about CI/CD, security, and modern software engineering practices. <br/>🔹 18+ years of experience in software development <br/>🔹 Expert in .NET, C#, SQL Server, Angular, Azure, and DevOps <br/>🚀 Currently exploring DevOps, cloud automation, and identity management. <br/>📫 Let's connect: https://www.linkedin.com/rnassar
+  2. PORTFOLIO BUTTON: Not included yet (you said "not ready"). Search for
+     "REMARK: PORTFOLIO" below to find the exact spot to drop it back in
+     once you have a URL — it's commented out, not deleted.
 
-* 🌍  I'm based in Dubai, UAE
-* ✉️  You can contact me at [rami.nassar@hotmail.com](mailto:rami.nassar@hotmail.com)
+  3. FEATURED PROJECTS: These are internal BESIX Group enterprise systems,
+     not public repos — so each card says "Internal Enterprise System"
+     instead of a GitHub link. If you build public repos (n8n workflows,
+     AI/automation experiments, vibe-coded MVPs), add real cards with repo
+     links — search "REMARK: ADD PUBLIC REPO" for the template pattern.
 
-### Skills
+  4. CERTIFICATION BADGES: Static shields.io badges (no verification link
+     wired in). If you get Credly badges for AZ-400/PMP/A-CSM, replace the
+     shields.io badge with the Credly embed for a clickable verification.
 
+  5. STATS WIDGETS: github-readme-stats / streak-stats / activity-graph /
+     trophies / snake all key off "raminassar" — they'll work as soon as
+     this is your actual profile README (repo named "raminassar/raminassar").
+     Snake animation additionally requires a one-time GitHub Action —
+     see: https://github.com/Platane/snk — search "REMARK: SNAKE ACTION".
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+  6. TECH STACK ICONS: Pulled from skillicons.dev — add/remove by editing
+     the comma-separated `?i=` list in each <img src> line.
 
+  7. TONE: Positioned as "Technology Executive / Enterprise Architect" not
+     "AI/ML Engineer" — your AI/automation work is framed as an applied
+     leadership skill (agentic workflows, AI-assisted delivery), not a core
+     ML specialization, to stay credible for the roles you're targeting.
+  ============================================================================
+-->
 
-### Socials
+<div align="center">
 
-<p align="left"> <a href="https://www.facebook.com/rami.m.nassar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/raminassar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/rami_nassar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rnassar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<!-- 1a. Capsule Render wave banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,50:5b21b6,100:7c3aed&height=220&section=header&text=Rami%20M.%20Nassar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20Executive%20%7C%20Enterprise%20Solution%20Architect%20%7C%20Digital%20Transformation&descAlignY=58&descSize=16" />
 
-### Badges
+<!-- 1b. Typing SVG animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=18%2B+Years+Architecting+Enterprise+Systems+Across+the+GCC;Azure+%7C+Terraform+%7C+CI%2FCD+%7C+Microservices;D365+%E2%86%92+4PS+Migration+%7C+15%2B+Integration+APIs;Leading+Teams%2C+Not+Just+Writing+Code;Exploring+Agentic+AI+%26+Automation+(n8n%2C+Claude+Code)" alt="Typing SVG" />
+</a>
 
-<b>My GitHub Stats</b>
+<!-- 1c. Academic badges -->
+<img src="https://img.shields.io/badge/M.Sc.-Information%20Technology-5b21b6?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Sc.-Information%20Technology-7c3aed?style=flat-square&logo=googlescholar&logoColor=white" />
 
-<a href="http://www.github.com/raminassar"><img src="https://github-readme-stats.vercel.app/api?username=raminassar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raminassar's GitHub stats" /></a>
+<!-- 1d. Location badge -->
+<img src="https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-4c1d95?style=flat-square&logo=googlemaps&logoColor=white" />
 
-<a href="http://www.github.com/raminassar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raminassar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br/>
 
-<a href="https://github.com/raminassar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminassar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- 1e. Portfolio button — REMARK: PORTFOLIO — uncomment and fill in once site is live
+<a href="https://your-portfolio-url.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+-->
+
+<!-- 1f. LinkedIn button -->
+<a href="https://www.linkedin.com/in/rnassar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- 1g. Email button -->
+<a href="mailto:rami.nassar@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=maildotru&logoColor=white" />
+</a>
+
+<!-- 1h. GitHub button -->
+<a href="https://github.com/raminassar">
+  <img src="https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- 1h(ii). X / Twitter button -->
+<a href="https://twitter.com/rami_nassar">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- 1i. Profile views -->
+<img src="https://komarev.com/ghpvc/?username=raminassar&style=flat-square&color=7c3aed&label=Profile+Views" />
+<!-- 1j. Followers -->
+<img src="https://img.shields.io/github/followers/raminassar?style=flat-square&color=5b21b6&label=Followers" />
+<!-- 1k. Stars -->
+<img src="https://img.shields.io/github/stars/raminassar?style=flat-square&color=4c1d95&label=Stars" />
+
+</div>
+
+<br/>
+
+---
+
+## 🧠 About Me
+
+I'm a **Lead Solution Architect** and technology executive based in Dubai, with **18+ years** designing and delivering enterprise-grade systems for government, public sector, and multinational construction/engineering organizations across the **UAE and GCC**.
+
+- 🏗️ Currently **Lead Solution Architect at BESIX Group**, a multi-country international construction conglomerate — ~13 years with the organization across architecture and senior engineering leadership roles
+- ☁️ Deep specialization in **Microsoft Azure**, cloud-first migrations, **Infrastructure-as-Code (Terraform)**, and **CI/CD pipeline engineering**
+- 🔄 Led the strategic **ERP migration from Dynamics AX → D365 → 4PS**, including 15+ production integration APIs, with zero business disruption
+- 🧩 Architect of enterprise systems processing **2M+ records** and serving **thousands of users** across international subsidiaries at 99.9% uptime
+- 🤖 Actively building an **AI-augmented delivery practice** — agentic workflows, AI-assisted development, and automation pipelines using ChatGPT, Gemini, Claude Code, GitHub Copilot, and n8n
+- 🎯 Product-and-people mindset: I care as much about team velocity and stakeholder alignment as I do about clean architecture
+
+**Open To:**
+`Head of Engineering` · `Digital Transformation Director` · `VP of Engineering` · `IT Director` · `Principal Solution Architect` · `CTO (SME)`
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,flutter" />
+
+**Backend, Data & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mssql,postgres,mysql,oracle" />
+
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,docker,terraform,githubactions,git,github,jira,powerbi" />
+
+<br/>
+
+---
+
+## 🤖 AI-Augmented Engineering
+
+> Positioned as applied delivery leadership, not core ML research — I use AI to compress delivery timelines and prototype faster, and I evaluate it the way I'd evaluate any other engineering tool: for measurable, defensible impact.
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Agentic Workflow Design** | Hands-on | Building automation pipelines with **n8n**; orchestrating multi-step agent workflows for internal process automation |
+| **AI-Assisted Development ("Vibe Coding")** | Hands-on | Rapid MVP development using **Claude Code**, **GitHub Copilot**, and **OpenAI Codex** — from prototype to defensible, production-aware output |
+| **Prompt Engineering** | Practitioner | Structured prompting across **ChatGPT**, **Google Gemini**, and **Claude** for technical documentation, architecture drafts, and code review acceleration |
+| **AI Tooling Evaluation** | Practitioner | Ongoing hands-on comparison of AI coding assistants for enterprise delivery fit, guardrails, and code quality |
+
+<br/>
+
+---
+
+## 🏆 Featured Case Studies
+
+<!-- REMARK: ADD PUBLIC REPO — if you publish an open-source repo (e.g. an
+     n8n workflow template or a vibe-coded MVP), copy one of these <details>
+     blocks and swap the "Type" row for a real "Repository" row with a link. -->
+
+<details>
+<summary><b>🔷 Enterprise ERP Migration — Dynamics AX → D365 → 4PS</b></summary>
+<br/>
+
+Led the strategic re-platforming of BESIX Group's core ERP from legacy Dynamics AX through D365 to 4PS, including the design and delivery of 15+ integration APIs connecting finance, HR, supply chain, and project systems — with zero business disruption during cutover.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Microsoft Azure, Terraform, Azure DevOps, D365, 4PS, REST APIs |
+| **Scale** | 2M+ records migrated · Multi-country subsidiaries |
+| **Performance** | 30–200% query performance improvement post-migration |
+| **Security** | Enterprise IAM & compliance frameworks maintained through transition |
+| **Impact** | Zero data loss, zero business disruption, 40% operational cost reduction |
+| **Type** | Internal Enterprise System (BESIX Group) |
+
+</details>
+
+<details>
+<summary><b>🔷 Cloud-First Infrastructure Transformation</b></summary>
+<br/>
+
+Architected and executed a full migration of on-premises infrastructure to Microsoft Azure, refactoring legacy monolithic applications into containerized, cloud-native, modular-monolith/microservices architecture.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Azure IaaS/PaaS, Terraform (IaC), Docker, Azure DevOps CI/CD |
+| **Scale** | Multiple international subsidiaries |
+| **Performance** | 99.9% uptime · 70% reduction in deployment time |
+| **Security** | Centralized logging & monitoring, 60% faster incident response |
+| **Impact** | 40% operational cost reduction |
+| **Type** | Internal Enterprise System (BESIX Group) |
+
+</details>
+
+<details>
+<summary><b>🔷 SIMS — Custom Construction ERP</b></summary>
+<br/>
+
+Initiated and delivered a custom enterprise ERP purpose-built for construction operations, now a core system across the organization.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | .NET, SQL Server, enterprise integration layer |
+| **Scale** | 2,000+ users across 7+ international locations |
+| **Performance** | Designed for high-concurrency daily operational use |
+| **Security** | Role-based access across multi-country deployment |
+| **Impact** | Became a group-wide operational backbone |
+| **Type** | Internal Enterprise System (BESIX Group) |
+
+</details>
+
+<details>
+<summary><b>🔷 PERFORM — Executive Reporting Dashboard</b></summary>
+<br/>
+
+Designed and delivered a real-time executive dashboard that collapsed complex, multi-project reporting cycles from a week down to under an hour.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | .NET, Power BI, SQL Server, enterprise data pipelines |
+| **Scale** | C-level and cross-project executive audience |
+| **Performance** | Reporting cycle: 1 week → under 1 hour |
+| **Security** | Executive-tier access controls |
+| **Impact** | 95% reduction in executive reporting time |
+| **Type** | Internal Enterprise System (BESIX Group) |
+
+</details>
+
+<details>
+<summary><b>🔷 Fleet Management & Manpower Planning Systems</b></summary>
+<br/>
+
+Delivered two large-scale operational platforms: an AED 1B+ asset tracking Fleet Management System, and a workforce scheduling engine for 10,000+ employees across GCC operations.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | .NET, SQL Server, GCC-wide integration layer |
+| **Scale** | AED 1B+ in tracked assets · 10,000+ employees scheduled |
+| **Performance** | Optimized logistics & resource allocation at GCC scale |
+| **Security** | Group-wide role-based governance |
+| **Impact** | 50% reduction in planning overhead |
+| **Type** | Internal Enterprise System (BESIX Group) |
+
+</details>
+
+<br/>
+
+---
+
+## 💼 Experience
+
+**Lead Solution Architect** · BESIX Group
+`Jan 2020 – Present · Dubai, UAE`
+Drive enterprise-wide digital transformation for a multi-country construction conglomerate — cloud-first architecture strategy, technology investment, and cross-functional engineering leadership.
+- Architected complete Azure migration; 40% cost reduction, 99.9% uptime
+- Led D365 → 4PS ERP migration with 15+ integration APIs
+- Managed 5+ cross-functional teams across onsite/remote locations, Agile SCRUM
+- Introduced Terraform-based IaC and automated CI/CD, cutting deployment time 70%
+
+`#Azure` `#Terraform` `#Microservices` `#DevOps` `#TeamLeadership` `#EnterpriseArchitecture`
+
+<br/>
+
+**Senior Programmer Analyst – Team Lead** · BESIX Group
+`Jun 2012 – Jan 2020 · Dubai, UAE`
+Spearheaded delivery of mission-critical enterprise systems supporting 1,000+ daily users globally.
+- Delivered SIMS ERP (2,000+ users, 7+ countries), PERFORM dashboard, Fleet Management, Manpower Planning, Risk Management, DigiPro, TIES
+- Led migration of 2M+ records with zero data loss
+
+`#.NET` `#SQLServer` `#EnterpriseSystems` `#DataMigration`
+
+<br/>
+
+**SharePoint Administrator & Developer** · Sharjah Municipality
+`Apr 2011 – Jun 2012 · Sharjah, UAE`
+Led implementation of a government-wide SharePoint portal with custom workflows and governance frameworks — 90%+ department adoption.
+
+`#SharePoint` `#Governance` `#GovTech`
+
+<br/>
+
+**Senior Solutions Developer (e-Services)** · Sharjah Municipality
+`Aug 2008 – Apr 2011 · Sharjah, UAE`
+Built citizen-facing e-services and payment systems, including a secure e-payment gateway processing AED 10M+ annually and WCF integration with the Unified Traffic System.
+
+`#eGovernment` `#WCF` `#SystemIntegration`
+
+<br/>
+
+**Technical Consultant** · Controsoft LLC
+`Nov 2009 – Jun 2010 · Sharjah, UAE`
+Strategic technical leadership for CRM module development within Neuro ERP, N-Tier architecture.
+
+`#ERP` `#NTierArchitecture`
+
+<br/>
+
+**Software Engineer** · RAK Police – Traffic Department
+`Jan 2007 – Jul 2008 · Ras Al Khaimah, UAE`
+Led development of the NAJDA traffic management system and coordinated Unified Traffic System rollout.
+
+`#TrafficSystems` `#GovTech` `#CrystalReports`
+
+<br/>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---|:---|
+| **95% Reporting Time Reduction** | PERFORM dashboard cut executive reporting from 1 week to under 1 hour |
+| **Zero-Disruption ERP Migration** | D365 → 4PS migration, 15+ integration APIs, no business downtime |
+| **AED 1B+ Asset Oversight** | Fleet Management System architecture across GCC operations |
+| **2M+ Records Migrated** | Zero data loss across HR, finance, inventory, and supply chain systems |
+| **99.9% System Uptime** | Sustained across multi-country Azure infrastructure |
+
+</div>
+
+<br/>
+
+---
+
+## 📜 Certifications
+
+**Cloud & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/AZ--400-Designing%20%26%20Implementing%20DevOps%20Solutions-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+
+**Project & Agile Leadership**
+<br/>
+<img src="https://img.shields.io/badge/PMP-Project%20Management%20Professional-5b21b6?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/A--CSM-Advanced%20Certified%20Scrum%20Master-7c3aed?style=flat-square&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/CSM-Certified%20Scrum%20Master-8b5cf6?style=flat-square&logo=scrumalliance&logoColor=white" />
+
+**Microsoft Technology**
+<br/>
+<img src="https://img.shields.io/badge/MCSA-Office%20365-737373?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MCPD-Web%20Applications-737373?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MCTS-.NET%20Framework%203.5-737373?style=flat-square&logo=microsoft&logoColor=white" />
+
+**Emerging Technology**
+<br/>
+<img src="https://img.shields.io/badge/Udemy-Generative%20AI%20%26%20Prompt%20Engineering-A435F0?style=flat-square&logo=udemy&logoColor=white" />
+
+<br/>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raminassar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raminassar&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=7c3aed" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminassar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="49%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=raminassar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+<br/>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raminassar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- REMARK: SNAKE ACTION — the line below renders a snake animation, but it
+     requires a one-time GitHub Action set up in this repo to generate the
+     SVG on a schedule. Setup guide: https://github.com/Platane/snk -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/raminassar/raminassar/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Agentic AI workflow orchestration (n8n, multi-agent patterns)
+  - Advanced prompt engineering for enterprise delivery acceleration
+
+Building:
+  - AI-assisted MVP development pipelines ("vibe coding" with production discipline)
+  - Personal automation stack across ChatGPT, Gemini, Claude Code, Copilot
+
+Exploring:
+  - VP/Head of Engineering scope — budget ownership, governance, org design
+  - Cloud/ERP practice leadership in banking & semi-government (UAE/GCC)
+
+Open_To:
+  - Head of Engineering / Head of Software Development
+  - Digital Transformation Manager / Director
+  - VP of Engineering / IT Director
+  - Principal Solution Architect
+```
+
+<br/>
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+<a href="mailto:rami.nassar@hotmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rnassar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/raminassar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://twitter.com/rami_nassar">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<!-- REMARK: PORTFOLIO — add portfolio badge here once live -->
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"Architecture is a decision made once and lived with for years — I'd rather get it right than get it fast."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:5b21b6,100:2b0a3d&height=120&section=footer" />
+
+</div>
