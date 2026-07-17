@@ -1,0 +1,74 @@
+# ==============================================================================
+# generate-profile-assets.yml
+#
+# WHERE THIS GOES: save this file as
+#   .github/workflows/generate-profile-assets.yml
+# inside your raminassar/raminassar repo (create the .github/workflows/ folders
+# if they don't exist yet).
+#
+# WHAT IT DOES: runs once a day (and any time you trigger it manually from the
+# Actions tab), generates the Trophy SVG and the Snake contribution animation,
+# and commits them straight into the repo under /assets/. Your README then
+# points at those committed files instead of a live third-party server — so
+# nothing can 503 on a visitor. This is the standard fix recommended by both
+# the trophy and snake projects once you outgrow the public shared instances.
+#
+# ONE-TIME SETUP AFTER ADDING THIS FILE:
+#   1. Go to your repo -> Settings -> Actions -> General -> Workflow permissions
+#      -> select "Read and write permissions" -> Save.
+#      (Without this, the commit-and-push step at the end will fail with a
+#      permissions error.)
+#   2. Go to the Actions tab -> "Generate Profile Assets" -> Run workflow
+#      (this triggers it immediately instead of waiting for the daily cron).
+#   3. Check the repo after ~1 minute — you should see a new /assets/ folder
+#      with trophy.svg, snake.svg, and snake-dark.svg committed by
+#      "github-actions[bot]".
+#   4. Refresh your profile page — both images should now render.
+# ==============================================================================
+
+name: Generate Profile Assets
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # once daily at midnight UTC — adjust if you want it fresher/less frequent
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # ---- Trophy: generates a static SVG, no live server dependency ----
+      - name: Generate GitHub Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: raminassar
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: algolia
+          no-frame: true
+          no-bg: true
+          margin-w: 8
+          row: 1
+
+      # ---- Snake: generates the contribution-grid snake animation ----
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: raminassar
+          outputs: |
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
+
+      # ---- Commit the generated files back into the repo ----
+      - name: Commit and push generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --staged --quiet || git commit -m "chore: refresh profile assets (trophy, snake)"
+          git push
