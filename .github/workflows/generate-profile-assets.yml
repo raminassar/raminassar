@@ -18,12 +18,20 @@
 #      -> select "Read and write permissions" -> Save.
 #      (Without this, the commit-and-push step at the end will fail with a
 #      permissions error.)
-#   2. Go to the Actions tab -> "Generate Profile Assets" -> Run workflow
+#   2. Create a Personal Access Token at https://github.com/settings/tokens/new
+#      with scopes: read:user + public_repo, no expiration (or long-lived).
+#      The trophy step needs this — the default GITHUB_TOKEN doesn't have
+#      enough scope for its user-stats query and will fail with
+#      "Error fetching user info".
+#   3. Add that token as a repo secret: Settings -> Secrets and variables ->
+#      Actions -> New repository secret -> name it TROPHY_TOKEN -> paste the
+#      token value -> Add secret.
+#   4. Go to the Actions tab -> "Generate Profile Assets" -> Run workflow
 #      (this triggers it immediately instead of waiting for the daily cron).
-#   3. Check the repo after ~1 minute — you should see a new /assets/ folder
+#   5. Check the repo after ~1 minute — you should see a new /assets/ folder
 #      with trophy.svg, snake.svg, and snake-dark.svg committed by
 #      "github-actions[bot]".
-#   4. Refresh your profile page — both images should now render.
+#   6. Refresh your profile page — both images should now render.
 # ==============================================================================
 
 name: Generate Profile Assets
@@ -43,12 +51,19 @@ jobs:
         uses: actions/checkout@v4
 
       # ---- Trophy: generates a static SVG, no live server dependency ----
+      # NOTE: this step needs a Personal Access Token with read:user +
+      # public_repo scopes — the default GITHUB_TOKEN does NOT have enough
+      # scope for this action's user-stats query and will fail with
+      # "Error fetching user info". Create the token at
+      # https://github.com/settings/tokens/new and store it as a repo
+      # secret named TROPHY_TOKEN (Settings -> Secrets and variables ->
+      # Actions -> New repository secret).
       - name: Generate GitHub Trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: raminassar
           output_path: assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
           theme: algolia
           no-frame: true
           no-bg: true
